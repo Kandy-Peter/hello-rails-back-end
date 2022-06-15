@@ -1,3 +1,3 @@
-class GreetingsController < AplliactionController
+class StaticController < ApplicationController
   def index; end
 end
